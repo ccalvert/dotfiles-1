@@ -5,12 +5,12 @@
 #
 # Easy run:
 #
-#   curl https://raw.github.com/coderifous/dotfiles/master/get.vimfiles.sh | sh
+#   curl https://raw.github.com/ccalvert/dotfiles-1/master/get.vimfiles.sh | sh
 
-REPO_NAME="dotfiles"
+REPO_NAME="dotfiles-1"
 # Replace the hostname, username and repository name as required to use your
 # own fork instead of Coderifous's.
-GIT_REPO_URL="git@github.com:coderifous/$REPO_NAME.git"
+GIT_REPO_URL="git@github-work:ccalvert/$REPO_NAME.git"
 
 echo -e "\033[32mDownloading repository."
 echo -e "\033[0m"
