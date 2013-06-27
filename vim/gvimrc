@@ -27,7 +27,7 @@ if has("gui_macvim")
 
 elseif has("gui_gtk2")
 
-  set guifont=Monaco
+  set guifont=Courier\ 10\ Pitch\ 12
   set guioptions-=T  " remove toolbar
 
 end
